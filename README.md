@@ -2,7 +2,7 @@
 
 <b># LinkedIn Clone Using React and Firebase</b>
 
-Website link :- https://linkdein-1ebfb.web.app/
+Website link :- <a href="https://linkdein-1ebfb.web.app/" target="_blank">Click here</a>
 
 <b>Landing Page</b>
 ![](ss1.png)
