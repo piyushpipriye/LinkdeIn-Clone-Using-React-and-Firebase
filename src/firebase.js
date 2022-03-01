@@ -6,7 +6,7 @@ import 'firebase/compat/firestore';
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAvGskmGkuInutMrRQIm42GcgBI10ybgN0",
+  apiKey: "",
   authDomain: "linkdein-1ebfb.firebaseapp.com",
   projectId: "linkdein-1ebfb",
   storageBucket: "linkdein-1ebfb.appspot.com",
